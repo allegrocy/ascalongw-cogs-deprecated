@@ -1,0 +1,89 @@
+Hello and welcome!
+
+This is the "official" Guild Wars Discord server.
+
+**__Channels__**
+#server-info: (you're here!)
+#announcements: announcements
+#general: general discussion
+#pve, #pvp and #speed-clears: forming groups
+#builds: builds
+#guild-recruitment: to join a guild or recruit members
+#trading: buying and selling stuff
+#services: buying and selling services
+#kamadan: a real time log of trade chat in Kamadan in-game
+#bot-spam if you wanna use the bot
+
+**__Self Roles__**
+
+You can add yourself to any of the following roles with their respective commands and receive role-based notifications.
+
+-pve -- @PvE
+-pvp -- @PvP
+-gvg -- @GvG
+-pre-searing -- @Pre-searing
+-runner -- @Runner
+-doasc -- @DoASC
+-uwsc -- @UWSC
+-fowsc -- @FoWSC
+-dungeonsc -- @DungeonSC
+-deep -- @Deep
+-urgoz -- @Urgoz
+-trader -- @Trader
+
+Invite your friends!
+
+Invite link: https://discord.gg/gw
+
+**__Bot Commands__**
+
+:Frenzy:    **Skill Builder**    :Mending: 
+```cs
+-skill <template code>      "Ping your build"   #shortcut: -s
+-edit skill <1-8> <name>    "Edit skill"        #shortcut: -es
+-edit attrb <name> <points> "Edit attributes"   #shortcut: -ea
+-edit prof <pri/sec> <name> "Edit profession"   #shortcut: -ep
+-save                       "Save build"        #shortcut: -sv
+-load                       "Load build"        #shortcut: -ld
+-team <code>, <code>...     "Ping team build"   #shortcut: -t
+```
+:mag_right:    **Search tools**    :mag:
+```bash
+-pc <keywords>              "Price check"
+-pc author <keywords>       "Lookup author"
+-pc long <keywords>         "More results per page"
+-pc m <keywords>            "Formatted for mobile"
+-pc mlong <keywords>        "More results, for mobile"
+-wiki <keywords>            "Search wiki"
+```
+:EliteMesmerTome:    **Information**    :EliteRitualistTome: 
+```bash
+-zq                         "Today's Zaishen Quests"
+-nick                       "Today's Nicholas the Traveler"
+-bonus                      "This week's bonus"
+-event                      "Next Special Event"
+-listall                    "All of the above"
+-zqnext                     "Tomorrow's ZQ"
+-nicknext                   "Next week's Nick"
+-bonusnext                  "Next week's bonus"
+-fa                         "Countdown to Fort Aspenwood games (weekends)"
+-links                      "List of helpful links"
+```
+
+@everyone, some updates for this server!
+
+1. You can now save, edit and load your builds! Find out more at #server-info.
+
+2. If you wish to find out more about a skill, simply click on the reactions. :one::two::three:
+
+3. New custom emojis! May the :Frenzy::Mending: memery begin.
+
+4. You can now add/remove your own roles from the list at #server-info. This will allow you to share and receive specific notifications when someone mentions your role.
+
+5. Some updates to the price check tool. There's now a special formatter for mobile devices and longer searches (restricted to #bot-spam).
+
+As always, keep bot-spam to #bot-spam and have fun with Guild Wars.
+
+If you have questions or feedback, feel free to discuss them in #general or DM me.
+
+Our invite link: https://discord.gg/gw
